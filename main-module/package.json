@@ -1,0 +1,15 @@
+{
+  "name": "ts-loader-repro",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "ts-loader": "^3.0.5",
+    "typescript": "^2.5.3",
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}

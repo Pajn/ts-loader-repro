@@ -1,0 +1,13 @@
+{
+  "name": "other-module",
+  "version": "1.0.0",
+  "main": "src/module.ts",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
